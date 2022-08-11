@@ -471,12 +471,12 @@ p {
     }
 
     #name {
-        width: 180px;
+        width: 165px;
         margin-left: 5%;
     }
 
     #email {
-        width: 180px;
+        width: 165px;
     }
 
     #textaira  {
@@ -497,6 +497,10 @@ p {
 
     .content-in {
         margin-top: 30px;
+    }
+
+    .about-footer-2 {
+        padding: 0%;
     }
 
 }
