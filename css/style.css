@@ -471,30 +471,36 @@ p {
     }
 
     #name {
-        width: 165px;
-        margin-left: 5%;
+        width: 100%;
+        margin-left: 1%;
+        margin-bottom: 15px;
     }
 
     #email {
-        width: 165px;
+        width: 100%;
+        /* padding: 10px; */
+        margin-left: 1%;
     }
 
     #textaira  {
-        width: 92%;
+        width: 95%;
     }
 
     .contect-submit {
-        width: 92%;
+        width: 95%;
     }
 
     .blanck {
-        width: 85%;
+        width: 90%;
     }
 
     .content {
         display: block;
     }
 
+    .contect-flex {
+        display: block;
+    }
     .content-in {
         margin-top: 30px;
     }
