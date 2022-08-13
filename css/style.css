@@ -365,7 +365,7 @@ p {
         top: 0px;
         transition: 1s;
         top: -100%;
-        background-color: rgba(224, 17, 17, 0.987);
+        background-color: rgb(224, 17, 17);
         position: fixed;
     }
 
@@ -397,6 +397,11 @@ p {
         margin-left: 33%;
     }
 
+    .link {
+        border: 1px solid black;
+        padding: 8px 9px;
+        border-radius: 5px;
+    }
     .nav-card {
         margin-left: 21%;
     }
