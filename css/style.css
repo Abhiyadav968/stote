@@ -27,11 +27,9 @@ nav {
 }
 
 .logo-img {
+    margin-left: 60px;
     width: 60px;
     margin-top: 45px;
-    /* height: 25px; */
-    margin-left: 60px;
-    /* line-height: 10px; */
 }
 
 .navbar {
@@ -367,7 +365,7 @@ p {
         top: 0px;
         transition: 1s;
         top: -100%;
-        background-color: rgb(64, 13, 113);
+        background-color: rgba(224, 17, 17, 0.987);
         position: fixed;
     }
 
