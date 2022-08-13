@@ -59,7 +59,7 @@ nav {
 .body {
     width: 96%;
     margin-left: 25px;
-    background-image: url(../img/background.svg);
+    background-image: url(../img/back.jfif);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -148,8 +148,8 @@ nav {
 }
 
 .checkout-img {
-    /* width: 33%; */
-    height: 350px;  
+    width: 33%;
+    height: 350px;
     padding: 0 10px;
     margin-top: 70px;
 }
@@ -198,7 +198,7 @@ nav {
 /* about-style */
 
 .about {
-    background-image: url(../img/background.svg);
+    background-image: url(../img/back.jfif);
     width: 96%;
     height: 600px;
     margin-left: 2%;
@@ -232,29 +232,6 @@ nav {
     opacity: 0.6;
     margin-left: 11%;
 
-}
-
-.about-body {
-    margin-left: 10%;
-}
-
-.about-img {
-    width: 62%;
-    height: 400px;
-    margin-top: 100px;
-    /* margin-left: 180px; */
-}
-
-.about-img-2 {
-    width: 100%;
-    height: 500px;   
-    margin-left: -52px;
-}
-
-.about-img-3 {
-    width: 65%;
-    height: 450px;
-    margin-left: 320px;
 }
 
 .about-footer-1 {
@@ -352,7 +329,7 @@ p {
     height: 400px;
     margin-top: 50px;
     margin-left: 5%;
-    background-color: rgba(0, 0, 0, 0.294);
+    /* background-color: rgba(0, 0, 0, 0.294); */
 }
 
 .content {
@@ -387,10 +364,10 @@ p {
 
     .nav {
         width: 100%;
-        top: px;
+        top: 0px;
         transition: 1s;
         top: -100%;
-        background-color: rgb(100, 148, 237);
+        background-color: rgb(64, 13, 113);
         position: fixed;
     }
 
@@ -412,17 +389,17 @@ p {
     #check:checked~.nav {
         top: 100px;
     }
-    
+
     .body {
         margin-left: 2%;
         margin-right: 5%;
     }
-    
-    .submit{
+
+    .submit {
         margin-left: 33%;
     }
 
-    .nav-card{
+    .nav-card {
         margin-left: 21%;
     }
 
@@ -430,7 +407,7 @@ p {
         display: block;
         text-align: center;
     }
-    
+
     .checkout-img {
         width: 90%;
         height: 350px;
@@ -456,10 +433,12 @@ p {
     .about-img {
         width: 100%;
     }
+
     .about-img-2 {
         width: 100%;
         margin-left: 0%;
     }
+
     .about-img-3 {
         width: 100%;
         margin-left: 0%;
@@ -482,7 +461,7 @@ p {
         margin-left: 1%;
     }
 
-    #textaira  {
+    #textaira {
         width: 95%;
     }
 
@@ -501,6 +480,7 @@ p {
     .contect-flex {
         display: block;
     }
+
     .content-in {
         margin-top: 30px;
     }
