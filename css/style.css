@@ -404,6 +404,12 @@ p {
     }
     .nav-card {
         margin-left: 21%;
+        display: none;
+    }
+
+    .logo {
+        float: right;
+        padding-left: 54%;
     }
 
     .checkout {
